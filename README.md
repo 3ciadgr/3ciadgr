@@ -12,7 +12,7 @@ I'm an aspiring developer and graphic designer.
 
  ## :headphones: Spotify Playing
 
-[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l) 
+[![Spotify](https://readme-spotify.3ciadgr.com/api/spotify)](https://open.spotify.com/user/12175457686) 
 
 ## :wrench: Technologies
 
