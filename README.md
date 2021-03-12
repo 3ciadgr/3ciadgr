@@ -1,4 +1,4 @@
-# Hello! I'm Tricia Relox (:microphone::computer::coffee)
+# Hello! I'm Tricia Relox (:microphone::computer::coffee:)
 
 I'm an aspiring developer and graphic designer.
 
