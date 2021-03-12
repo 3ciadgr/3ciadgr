@@ -18,10 +18,9 @@ I'm an aspiring developer and graphic designer.
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=3ciadgr)
 
 ## :zap: Github Stats
-
-[![Tricia Relox Github Stats](https://readme-stats.3ciadgr.com/api?username=3ciadgr&show_icons=true&count_private=true)](https://github.com/3ciadgr/github-readme-stats)
+[![Tricia's Github Stats](https://github-readme-stats.vercel.app/api?username=3ciadgr)](https://github.com/3ciadgr/github-readme-stats)
 
 ---
 
-:computer: with :heart: by **Tricia Relox** with **YHWH**
+:computer: with :heart: by **Tricia Relox**
 
