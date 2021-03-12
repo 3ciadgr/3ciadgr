@@ -48,23 +48,15 @@ Wanna see some of my future projects? Join today!
 
 ## :computer: Github Activities
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#477](https://github.com//mapbox/node-pre-gyp/issues/477) in [mapbox/node-pre-gyp](https://github.com//mapbox/node-pre-gyp)
-2. 🗣 Commented on [#471](https://github.com//mapbox/node-pre-gyp/issues/471) in [mapbox/node-pre-gyp](https://github.com//mapbox/node-pre-gyp)
-3. 🗣 Commented on [#196](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/196) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-4. 💪 Opened PR [#1108](https://github.com//animate-css/animate.css/pull/1108) in [animate-css/animate.css](https://github.com//animate-css/animate.css)
-5. 🗣 Commented on [#1066](https://github.com//animate-css/animate.css/issues/1066) in [animate-css/animate.css](https://github.com//animate-css/animate.css)
-<!--END_SECTION:activity-->
 
 ## :trophy: Github Awards
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=warengonzaga)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=3ciadgr)
 
 ## :zap: Github Stats
 
-[![Waren Gonzaga Github Stats](https://readme-stats.warengonzaga.com/api?username=warengonzaga&show_icons=true&count_private=true)](https://github.com/warengonzaga/github-readme-stats)
+[![Tricia Relox Github Stats](https://readme-stats.3ciadgr.com/api?username=3ciadgr&show_icons=true&count_private=true)](https://github.com/3ciadgr/github-readme-stats)
 
 ---
 
-:computer: with :heart: by **Waren Gonzaga** with **YHWH**
+:computer: with :heart: by **Tricia Relox** with **YHWH**
 
