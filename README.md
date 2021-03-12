@@ -4,7 +4,7 @@ I'm an aspiring developer and graphic designer.
 
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/3ciadgr) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/3ciadgr) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tricia-relox) [![Buy Me A Coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-%23ff813f.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoff.ee/3ciadgr)
 
-- :books: Currently an IT Student at FEU - Institute of Technology.
+- :books: Currently an Information Technology specialized in Web and Mobile Application Student at FEU - Institute of Technology.
 - :email: Work with me? [contact me here](mailto:tdgrelox@gmail.com).
 - :coffee: Coffee lover, [buy me a coffee](https://buymeacoff.ee/3ciadgr)!
 
@@ -22,5 +22,5 @@ I'm an aspiring developer and graphic designer.
 
 ---
 
-:computer: with :heart: by **Tricia Relox**
+:microphone::computer: with :heart: by **Tricia Relox**
 
