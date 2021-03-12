@@ -6,17 +6,11 @@ I'm an aspiring developer and graphic designer.
 
 - :books: Currently an IT Student at FEU - Institute of Technology.
 - :moneybag: Work with me? [contact me here](mailto:tdgrelox@gmail.com).
-- :coffee: Coffee lover, turning it into code, [you can buy me a coffee](https://buymeacoff.ee/warengonzaga)!
-- :trophy: 2020 Goals: Contribute and publish more open source projects.
-- :dart: Wasting my time to save other people's time.
-
- ## :headphones: Spotify Playing
-[![Spotify](https://readme-spotify.3ciadgr.com/api/spotify)](https://open.spotify.com/user/12175457686) 
+- :coffee: Coffee lover, [buy me a coffee](https://buymeacoff.ee/3ciadgr)!
 
 ## :wrench: Technologies
 ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Windows](https://img.icons8.com/color/30/windows-10.png)
 
-[![Top Language](https://readme-stats.3ciadgr.com/api/top-langs?username=3ciadgr&layout=compact)](https://github.com/3ciadgr/github-readme-stats)
 ## :computer: Github Activities
 
 
