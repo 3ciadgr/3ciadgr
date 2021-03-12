@@ -10,9 +10,9 @@ I'm an aspiring developer and graphic designer.
 - :trophy: 2020 Goals: Contribute and publish more open source projects.
 - :dart: Wasting my time to save other people's time.
 
-<!-- ## :headphones: Spotify Playing
+ ## :headphones: Spotify Playing
 
-<!-- [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l)
+[![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/vmt7lpqdatuelp2chw7ur2p2l) 
 
 ## :wrench: Technologies
 
