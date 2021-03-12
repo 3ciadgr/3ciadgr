@@ -5,7 +5,7 @@ I'm an aspiring developer and graphic designer.
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/3ciadgr) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tricia-relox) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/3ciadgr) [![The Archives](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://welcomearchives.blogspot.com/) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/3ciadgr) 
 
 - :books: Currently an Information Technology specialized in Web and Mobile Application Student at FEU - Institute of Technology.
-- :email: Work with me? [contact me here](mailto:tdgrelox@gmail.com).
+- :email: Work with me? [Contact me here](mailto:tdgrelox@gmail.com).
 - :coffee: Coffee lover, [buy me a coffee](https://buymeacoff.ee/3ciadgr)!
 
 ## :wrench: Technologies
