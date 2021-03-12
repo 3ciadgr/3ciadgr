@@ -12,6 +12,8 @@ I'm an aspiring developer and graphic designer.
 ![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Windows](https://img.icons8.com/color/30/windows-10.png)
 
 ## :computer: Github Activities
+[![Profile Views](https://komarev.com/ghpvc/?3ciadgr=your-github-3ciadgr&color=lightgrey)]
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3ciadgr&layout=compact)](https://github.com/3ciadgr/github-readme-stats)
 
 ## :trophy: Github Awards
