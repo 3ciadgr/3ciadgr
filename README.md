@@ -16,12 +16,14 @@ I'm an aspiring web developer and graphic designer.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3ciadgr&layout=compact)](https://github.com/3ciadgr/github-readme-stats)
 
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3ciadgr&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact)
+
 ## :trophy: Github Awards
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=3ciadgr)
 
 ## :zap: Github Stats
 [![Tricia's Github Stats](https://github-readme-stats.vercel.app/api?username=3ciadgr)](https://github.com/3ciadgr/github-readme-stats)
-
+![github stats](https://github-readme-stats.vercel.app/api?username=3ciadgr&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) 
 ---
 
 :microphone::computer: with :heart: by **Tricia Relox**
