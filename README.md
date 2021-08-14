@@ -9,7 +9,7 @@ I'm an aspiring web developer and graphic designer.
 - :coffee: Coffee lover, [buy me a coffee](https://buymeacoff.ee/3ciadgr)!
 
 ## :wrench: Technologies
-![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![Android Studio](https://img.icons8.com/fluent/35/000000/android-os.png)![Oracle](https://img.icons8.com/color/48/000000/oracle-logo.png)![Python](https://img.icons8.com/color/35/000000/python.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![PHP](https://img.icons8.com/officel/40/000000/php-logo.png)
+![HTML5](https://img.icons8.com/color/30/html-5.png)![CSS3](https://img.icons8.com/color/30/css3.png)![Android Studio](https://img.icons8.com/fluent/35/000000/android-os.png)![Oracle](https://img.icons8.com/color/48/000000/oracle-logo.png)![Python](https://img.icons8.com/color/35/000000/python.png)![JavaScript](https://img.icons8.com/color/30/javascript.png)![Github](https://img.icons8.com/material-outlined/30/github.png)![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)![Windows](https://img.icons8.com/color/30/windows-10.png)![PHP](https://img.icons8.com/officel/40/000000/php-logo.png)![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png)
 
 ## :computer: Github Activities
 ![Profile views](https://gpvc.arturio.dev/3ciadgr)
